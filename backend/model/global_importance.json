@@ -1,0 +1,12 @@
+{
+  "attendance": 0.24511933685691226,
+  "avg_grade": 0.21887675724497635,
+  "assignment_completion": 0.13143560631935705,
+  "engagement_score": 0.16846507574209071,
+  "participation_score": 0.07473666225328575,
+  "study_hours": 0.03758028623668116,
+  "previous_failures": 0.029173419967036845,
+  "absences": 0.07369721106706485,
+  "family_support": 0.014973119237059799,
+  "extracurricular": 0.005942525075535192
+}

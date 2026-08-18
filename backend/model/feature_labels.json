@@ -1,0 +1,12 @@
+{
+  "attendance": "Attendance",
+  "avg_grade": "Average Grade",
+  "assignment_completion": "Assignment Completion",
+  "engagement_score": "Engagement",
+  "participation_score": "Participation",
+  "study_hours": "Study Hours",
+  "previous_failures": "Previous Failures",
+  "absences": "Absences",
+  "family_support": "Family Support",
+  "extracurricular": "Extracurricular Activity"
+}
